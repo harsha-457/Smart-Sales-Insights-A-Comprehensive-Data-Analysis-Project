@@ -71,7 +71,7 @@ This project involves an end-to-end data analysis of **customer and sales data**
 ### **⚡ Prerequisites**
 1. 🐍 Python 3.x
 2. 🛢️ MySQL Server
-3. 🖥️ Google Colab (or Jupyter Notebook)
+3. 🖥️ Jupyter Notebook
 4. 📦 Required Python libraries:
    - Pandas
    - NumPy
